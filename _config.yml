@@ -15,9 +15,9 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Personal Website"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Takashi Lawson"
 description              : "Personal website of Dr Takashi Lawson."
