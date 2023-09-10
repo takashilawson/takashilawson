@@ -1,5 +1,7 @@
 ---
 layout: splash
+classes:
+  - landing
 permalink: /
 hidden: true
 ---

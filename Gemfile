@@ -14,6 +14,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 # gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem "jemoji"
 
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
