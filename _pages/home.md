@@ -3,6 +3,10 @@ layout: splash
 classes:
   - landing
 permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/banner2.jpg
+  image_description: "EnterpriseTECH programme."
 hidden: true
 ---
 Welcome to my personal website!
