@@ -1,7 +1,7 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-last_modified_at: 2023-09-10
+last_modified_at: 2024-03-29
 toc: true
 ---
 
@@ -27,5 +27,3 @@ All of this information is not linked to anything that is personally identifiabl
 #### Google Analytics
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-Just like this website, my Disclosure Policy is a work in progress.
