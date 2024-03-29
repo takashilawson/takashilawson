@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Personal Website"
+title                    : "Dr Takashi Lawson"
 title_separator          : "|"
 subtitle                 : "Research Scientist"
 name                     : "Dr Takashi Lawson"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Takashi Lawson"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A diligent and conscientious scientist, driving ambitious research for the net-zero energy transition. I specialise in spectroscopy, photonic waveguides and solar energy harvesting. I am a Chartered Scientist, Chartered Engineer and Fellow of the Higher Education Academy (FHEA)."
+  bio              : "A diligent and conscientious scientist, driving ambitious research for the net-zero energy transition. I am a Chartered Scientist, Chartered Engineer and Fellow of the Higher Education Academy (FHEA)."
   location         : "Cambridge, UK"
   email            :
   links:
@@ -116,12 +116,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/takashilawson/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/takashi.lawson"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/takashilawson"
 
 # Site Footer
 footer:
