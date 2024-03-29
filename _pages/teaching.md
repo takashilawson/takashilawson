@@ -6,7 +6,7 @@ title: "Teaching"
 excerpt: "Teaching Experience"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/banner1.png
+  overlay_image: /assets/images/banner1.jpg
   image_description: "ITV interview about the intelligent toilet concept."
 last_modified_at: 2024-03-29
 toc: true
