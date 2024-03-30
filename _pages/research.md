@@ -8,10 +8,12 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
   image_description: "Fluorescence within a hollow-core fibre microreactor."
-last_modified_at: 2024-03-29
+last_modified_at: 2024-03-30
 toc: true
 ---
-I have scientific research experience in two areas related to the net-zero energy transition: (1) harnessing light to boost the efficiency of solar cells under diffuse indoor light and (2) harnessing light to produce solar fuels (i.e. green hydrogen) and chemicals. 
+I have scientific research experience in two areas related to the net-zero energy transition: 
+1. recycling diffuse indoor light to power small devices (the IoT).
+2. harnessing light to produce solar fuels (e.g., green hydrogen) and chemicals. 
 
 ## Postdoctoral Research Associate | Sep 2021 - Present
 In my current role, I lead on a collaborative scientific project between the University of Cambridge and McMaster University (Canada). I designed an optical setup to fabricate luminescent patterned films (or luminescent waveguide-encoded lattices - LWELs) for light harvesting. These patterned films are based on acrylate and epoxide polymers and can be applied to the surface of solar cells to boost efficiency. This work has resulted in the filing of a patent (US 63472150). 
@@ -32,4 +34,5 @@ To read the associated publications please see:
 * [Assessing the performance of carbon dot light absorbers](https://doi.org/10.1021/acscatal.3c02212).
 * [Real-time detection of cobaloxime intermediates for hydrogen evolution](https://doi.org/10.1002/ange.202214788).
 * [Quantifying 4CzIPN photocatalyst interactions with other molecules](https://doi.org/10.1039/D2CC03996F).
-* [Generating hydrogen from just water and sunlight](https://doi.org/10.1038/s41586-022-04978-6). 
+* [Floating artificial leaves for water splitting](https://doi.org/10.1038/s41586-022-04978-6). 
+* [Probing the electron transfer timescales of carbon dot light absorbers](https://doi.org/10.26434/chemrxiv-2024-ljht5).
