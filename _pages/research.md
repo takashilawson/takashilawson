@@ -8,7 +8,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
   image_description: "Fluorescence within a hollow-core fibre microreactor."
-last_modified_at: 2024-03-30
+last_modified_at: 2024-06-13
 toc: true
 ---
 I have scientific research experience in two areas related to the net-zero energy transition: 
@@ -21,7 +21,7 @@ In my current role, I lead on a collaborative scientific project between the Uni
 *But why is this useful?* The Internet-of-Things (IoT), a network of sensors and actuators connected to computing systems, holds great commercial and societal potential, from streamlining operations to enhancing human health. Many of these will be “fit and forget” devices, creating an urgent demand for off-grid power sources. Currently, most IoT nodes are powered by batteries. However, battery replacement translates into incremental costs through the product life cycle, huge environmental impact during disposal, and significant safety risks in some applications. Could we recyle ambient indoor light to perpetually power these devices instead? LWELs are advanced polymer materials designed to boost the performance of solar cells under diffuse indoor light. The LWEL is retrofitted to the surface of a solar cell where it increases the angular collection of diffuse light and converts indoor light via photoluminescence to better match the spectral response of the underlying solar cell. LWELs are therefore designed to boost the power output of solar cells, such they have sufficient power to drive the networking protocols that underpin the IoT.
 
 To read the associated publications please see:
-* [How introducing luminophores affects photopolymerisation](https://doi.org/10.26434/chemrxiv-2024-s6n9r-v2)
+* [How introducing luminophores affects photopolymerisation](https://doi.org/10.1021/acsapm.4c00484)
 
 I have also led efforts to implement a 'living lab' where a network of internet-enabled lab sensors feed into a monitoring dashboard to easily quantify and assess the environmental impact of our research.
 
