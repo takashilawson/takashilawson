@@ -8,7 +8,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
   image_description: "Fluorescence within a hollow-core fibre microreactor."
-last_modified_at: 2024-06-13
+last_modified_at: 2024-08-02
 toc: true
 ---
 I have scientific research experience in two areas related to the net-zero energy transition: 
@@ -31,8 +31,8 @@ In my PhD, I developed a reaction monitoring technology to track photochemical r
 *But why is this useful?* One method to create hydrogen cleanly is to split up the water molecule (H<sub>2</sub>O) into hydrogen (H<sub>2</sub>) and oxygen (O<sub>2</sub>) using sunlight, just like a leaf on a plant. We can use special chemicals called photocatalysts to do this, which capture energy from sunlight to drive chemical reactions. The problem is no one really knows how these photocatalysts work! My project seeked to change this by using optical fibres, the same technology that gives us high-speed internet. Optical fibres are glass tubes around the diameter of a human hair, that guide light effectively. The fibres used in my research were hollow in the middle, so a liquid sample could be injected in. Light could be shone down one end of the fibre, and I observed how the light changed as it interacted with the liquid sample. Specifically, chemicals interact with light in different ways, absorbing and emitting specific colours. These ‘spectroscopic signatures’ can be used to work out how the chemicals change and transform with time. The advantage of using optical fibres is the enhanced light-matter interaction over conventional chemical reactors, and the ultralow volumes mean I can minimise usage of expensive and precious samples.
 
 To read the associated publications please see:
+* [Probing the electron transfer timescales of carbon dot light absorbers](https://doi.org/10.1021/acscatal.4c02327).
 * [Assessing the performance of carbon dot light absorbers](https://doi.org/10.1021/acscatal.3c02212).
 * [Real-time detection of cobaloxime intermediates for hydrogen evolution](https://doi.org/10.1002/ange.202214788).
 * [Quantifying 4CzIPN photocatalyst interactions with other molecules](https://doi.org/10.1039/D2CC03996F).
 * [Floating artificial leaves for water splitting](https://doi.org/10.1038/s41586-022-04978-6). 
-* [Probing the electron transfer timescales of carbon dot light absorbers](https://doi.org/10.26434/chemrxiv-2024-ljht5).
