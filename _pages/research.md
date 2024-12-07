@@ -12,12 +12,12 @@ last_modified_at: 2024-08-30
 toc: true
 ---
 I have scientific research experience in three areas related to the net-zero energy transition: 
-1. designing optical materials for the sustainable cloud data storage systems of the future.
+1. designing optical storage materials for the sustainable data centres of the future.
 2. recycling diffuse indoor light to power small devices (the IoT).
 3. harnessing light to produce solar fuels (e.g., green hydrogen) and chemicals. 
 
 ## Research Scientist | Microsoft | Sep 2024 - Present
-As part of the Cambridge Postdoc Residency Scheme, I am developing new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/), a new long-term cloud data storage platform.
+As part of the Cambridge Postdoc Residency Scheme, I am developing new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/), a new archival data storage technology, based on writing data into glass with femtosecond lasers.
 
 ## Postdoctoral Research Associate | University of Cambridge | Sep 2021 - Aug 2024
 I led on a collaborative scientific project between the University of Cambridge and McMaster University (Canada). I designed an optical setup to fabricate luminescent patterned films (or luminescent waveguide-encoded lattices - LWELs) for light harvesting. These patterned films are based on acrylate and epoxide polymers and can be applied to the surface of solar cells to boost efficiency. This work has resulted in the filing of a patent (US 63472150). 
@@ -26,6 +26,7 @@ I led on a collaborative scientific project between the University of Cambridge 
 
 To read the associated publications please see:
 * [How introducing luminophores affects photopolymerisation](https://doi.org/10.1021/acsapm.4c00484)
+* [Using upconversion to drive a photoswitching reaction](https://doi.org/10.1039/D4TC03513E)
 
 I have also led efforts to implement a 'living lab' where a network of internet-enabled lab sensors feed into a monitoring dashboard to easily quantify and assess the environmental impact of scientific research. 
 

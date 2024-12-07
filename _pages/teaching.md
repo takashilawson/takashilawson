@@ -11,7 +11,7 @@ header:
 last_modified_at: 2024-08-30
 toc: true
 ---
-I am a Director of Studies at [Corpus Christi College](https://www.corpus.cam.ac.uk/subjects/natural-sciences-physical). I have a wide range of teaching experience across materials science, with a particular speciality in electrochemical and photoactive materials for the net-zero energy transition. In recognition of my teaching practice, I was awarded a Fellowship of the Higher Education Academy (FHEA) in 2023.
+I am a Bye-Fellow and Director of Studies at [Corpus Christi College](https://www.corpus.cam.ac.uk/subjects/natural-sciences-physical). I have a wide range of teaching experience across materials science, with a particular speciality in electrochemical and photoactive materials for the net-zero energy transition. In recognition of my teaching practice, I was awarded a Fellowship of the Higher Education Academy (FHEA) in 2023.
 
 ## Director of Studies in Materials Science | Oct 2021 - Present
 I advise and mentor students specialising in materials science, including supporting them with job applications. I have been a Director of Studies at Corpus Christi College since October 2021, and provided sabbatical cover at Jesus College from October 2022 to March 2023. I have also guided 16 A-level students from widening participation backgrounds through 21 tutorials in physics as part of the [STEM SMART](https://www.undergraduate.study.cam.ac.uk/stem-smart) widening participation programme. I interview applicants for the BA/MSci Natural Sciences (Physical) as part of the admissions process.
