@@ -8,16 +8,19 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
   image_description: "Fluorescence within a hollow-core fibre microreactor."
-last_modified_at: 2024-12-29
+last_modified_at: 2025-11-24
 toc: true
 ---
 I have scientific research experience in three areas related to the net-zero energy transition: 
-1. designing optical data storage technologies for the sustainable data centres of the future.
+1. harnessing light to produce solar fuels (e.g., green hydrogen) and chemicals. 
+2. designing optical data storage technologies for the sustainable data centres of the future.
 2. recycling diffuse indoor light to power small devices (the IoT).
-3. harnessing light to produce solar fuels (e.g., green hydrogen) and chemicals. 
 
-## Researcher | Microsoft | Sep 2024 - Present
-As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/){:target="_blank"}, I am developing new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/){:target="_blank"}, a new archival data storage technology, based on writing data into glass with femtosecond lasers. A video summary of the project is available [here](https://youtu.be/-rfEYd4NGQg?feature=shared){:target="_blank"}.
+## EPSRC Research Fellow | University of Cambridge | Starting Jan 2026
+More details on my fellowship project are available on the [UKRI website](https://gtr.ukri.org/projects?ref=UKRI2028){:target="_blank"}.
+
+## Researcher | Microsoft | Sep 2024 - Dec 2025
+As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/){:target="_blank"}, I investigated new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/){:target="_blank"}, a new archival data storage technology, based on writing data into glass with femtosecond lasers. A video summary of the project is available [here](https://youtu.be/-rfEYd4NGQg?feature=shared){:target="_blank"}.
 
 ## Postdoctoral Research Associate | University of Cambridge | Sep 2021 - Aug 2024
 I led on a collaborative scientific project between the University of Cambridge and McMaster University (Canada). I designed an optical setup to fabricate luminescent patterned films (or luminescent waveguide-encoded lattices - LWELs) for light harvesting. These patterned films are based on acrylate and epoxide polymers and can be applied to the surface of solar cells to boost efficiency. This work has resulted in the filing of a patent [WO/2024/252003](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024252003){:target="_blank"}. 
@@ -25,6 +28,7 @@ I led on a collaborative scientific project between the University of Cambridge 
 *But why is this useful?* The Internet-of-Things (IoT), a network of sensors and actuators connected to computing systems, holds great commercial and societal potential, from streamlining operations to enhancing human health. Many of these will be “fit and forget” devices, creating an urgent demand for off-grid power sources. Currently, most IoT nodes are powered by batteries. However, battery replacement translates into incremental costs through the product life cycle, huge environmental impact during disposal, and significant safety risks in some applications. Could we recyle ambient indoor light to perpetually power these devices instead? LWELs are advanced polymer materials designed to boost the performance of solar cells under diffuse indoor light. The LWEL is retrofitted to the surface of a solar cell where it increases the angular collection of diffuse light and converts indoor light via photoluminescence to better match the spectral response of the underlying solar cell. LWELs are therefore designed to boost the power output of solar cells, such they have sufficient power to drive the networking protocols that underpin the IoT.
 
 To read the associated publications please see:
+* [Assessing the performance of patterned films for diffuse light collection](https://doi.org/10.1002/cey2.70106){:target="_blank"}.
 * [How introducing luminophores affects photopolymerisation](https://doi.org/10.1021/acsapm.4c00484){:target="_blank"}.
 * [Using upconversion to drive a photoswitching reaction](https://doi.org/10.1039/D4TC03513E){:target="_blank"}.
 
