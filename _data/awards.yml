@@ -1,0 +1,132 @@
+- year: 2025
+  award_body: EPSRC
+  title: Postdoctoral Fellowship (Energy)
+  reference: UKRI2028
+  amount: "£429,354"
+  type: grant
+
+- year: 2024
+  award_body: ERC
+  title: Proof of Concept Grant (Named Researcher)
+  reference: 101189134
+  amount: "€150,000"
+  type: grant
+
+- year: 2024
+  award_body: Royce Industrial Collaboration Programme
+  title: Project Grant (Co-applicant)
+  reference: RICP-R4-100024
+  amount: "£96,834"
+  type: grant
+
+- year: 2024
+  award_body: STFC Diamond Light Source
+  title: Beamtime (Co-applicant, 144 hours)
+  reference: SM38967
+  amount: "ca. £60,000"
+  type: grant
+
+- year: 2024
+  award_body: Armourers and Brasiers' Company
+  title: Departmental Postdoctoral Prize
+  reference: null
+  amount: "£1,250"
+  type: prize
+
+- year: 2023
+  award_body: Cambridge Zero Living Labs
+  title: Sustainability Grant (Co-applicant)
+  reference: null
+  amount: "£9,000"
+  type: grant
+
+- year: 2023
+  award_body: EPSRC
+  title: Sponsorship for Impulse for Tech Innovators Programme
+  reference: null
+  amount: "£1,250"
+  type: grant
+
+- year: 2023
+  award_body: Royce Facilities Access Scheme
+  title: Project Grant (Lead Applicant)
+  reference: MAN-YR7-044
+  amount: "£4,298"
+  type: grant
+
+- year: 2023
+  award_body: UKRI Impact Acceleration Accounts
+  title: Project Grant (Lead Applicant)
+  reference: "133"
+  amount: "£13,260"
+  type: grant
+
+- year: 2022
+  award_body: Isaac Newton Trust
+  title: Bridging Grant (Named Researcher)
+  reference: "22.39(m)"
+  amount: "£19,716"
+  type: grant
+
+- year: 2022
+  award_body: STFC Diamond Light Source
+  title: Beamtime (Team Leader, 96 hours)
+  reference: SM31340
+  amount: "ca. £40,000"
+  type: grant
+
+- year: 2021
+  award_body: Reaction Mechanisms in Catalysis Faraday Discussion
+  title: Poster Prize
+  reference: null
+  amount: "£100"
+  type: prize
+
+- year: 2019
+  award_body: Reaction Monitoring Symposium
+  title: Poster Prize
+  reference: null
+  amount: "£100"
+  type: prize
+
+- year: 2017
+  award_body: St Edmund Hall
+  title: Simonian Prize for Excellence in Leadership
+  reference: null
+  amount: "£500"
+  type: prize
+
+- year: 2015
+  award_body: Oxford Materials / Armourers and Brasiers' Company
+  title: Travel Grant
+  reference: null
+  amount: "£2,000"
+  type: grant
+
+- year: 2015
+  award_body: UKNEST / Lloyds Register Foundation
+  title: Undergraduate Scholarship
+  reference: null
+  amount: "£3,000"
+  type: scholarship
+
+- year: 2014
+  award_body: St Edmund Hall
+  title: Undergraduate Scholarship
+  reference: null
+  amount: "£750"
+  type: scholarship
+
+- year: 2014
+  award_body: Oxford Materials
+  title: Johnson-Matthey Prize for Best Overall Performance in First-Year Exams
+  reference: null
+  amount: "£1,000"
+  type: prize
+
+- year: 2012
+  award_body: Berkshire Lieutenancy
+  title: Lord Lieutenant's Cadet
+  reference: null
+  amount: "N/A"
+  type: honour

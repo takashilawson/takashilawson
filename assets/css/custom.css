@@ -1,0 +1,45 @@
+/* Table styling */
+.awards-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+.awards-table th,
+.awards-table td {
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.awards-table th {
+  text-align: left;
+  font-weight: 600;
+  background: #fafafa;
+}
+
+/* Badge styling */
+.badge {
+  display: inline-block;
+  padding: 0.25em 0.6em;
+  border-radius: 0.35em;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #fff;
+}
+
+.badge--grant {
+  background-color: #2a7ae2; /* blue */
+}
+
+.badge--prize {
+  background-color: #e67e22; /* orange */
+}
+
+.badge--honour {
+  background-color: #8e44ad; /* purple */
+}
+
+.badge--other {
+  background-color: #7f8c8d; /* grey */
+}
