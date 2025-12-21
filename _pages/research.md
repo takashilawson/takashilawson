@@ -8,19 +8,27 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner.png
   image_description: "Fluorescence within a hollow-core fibre microreactor."
-last_modified_at: 2025-11-24
+last_modified_at: 2025-12-21
 toc: true
 ---
 I have scientific research experience in three areas related to the net-zero energy transition: 
 1. harnessing light to produce solar fuels (e.g., green hydrogen) and chemicals. 
-2. designing optical data storage technologies for the sustainable data centres of the future.
+2. writing data into glass using ultrafast lasers for sustainable archiving.
 2. recycling diffuse indoor light to power small devices (the IoT).
 
 ## EPSRC Research Fellow | University of Cambridge | Starting Jan 2026
+I am leading a project on luminescent solar microreactors (LSMRs). These devices absorb solar photons and convert them to more suitable wavelengths for photocatalysts, leading to a significant increase in solar-to-chemical efficiency.
+
+*But why is this useful?* Climate change and the global transition to net‑zero is one of the defining challenges of our time. While renewable electricity from solar and wind has grown rapidly, many sectors such as long‑haul transport, steelmaking, and chemical manufacturing cannot be easily electrified. Low‑emission hydrogen offers a promising alternative, but today almost all hydrogen is still produced from fossil fuels. Clean hydrogen can be generated through water electrolysis, yet deploying electrolysers at scale would place enormous additional demand on national power grids. To fully decarbonise our energy system, we need new off‑grid, decentralised ways to produce clean fuels. One promising pathway is the direct conversion of sunlight into chemical energy, so‑called solar fuels, using photocatalysis. The challenge is that conventional photocatalysts cannot efficiently use the full solar spectrum. Near‑infrared (NIR) light is too low in energy to be absorbed, while high‑energy ultraviolet (UV) light can damage the catalyst. This limitation can be overcome by converting the incoming sunlight. Upconversion combines two low‑energy NIR photons into a single higher‑energy photon that the photocatalyst can use. Downshifting converts damaging UV photons into lower‑energy light that avoids catalyst degradation.
+
 More details on my fellowship project are available on the [UKRI website](https://gtr.ukri.org/projects?ref=UKRI2028){:target="_blank"}.
 
-## Researcher | Microsoft | Sep 2024 - Dec 2025
-As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/){:target="_blank"}, I investigated new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/){:target="_blank"}, a new archival data storage technology, based on writing data into glass with femtosecond lasers. A video summary of the project is available [here](https://youtu.be/-rfEYd4NGQg?feature=shared){:target="_blank"}.
+## Researcher | Microsoft Research | Sep 2024 - Dec 2025
+As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/){:target="_blank"}, I investigated new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/){:target="_blank"}, an archival data storage technology, based on writing data into glass with femtosecond lasers. A video summary of the project is available [here](https://youtu.be/-rfEYd4NGQg?feature=shared){:target="_blank"}.
+
+*But why is this useful?* Humanity still lacks a truly sustainable, cost‑effective way to preserve data for the long term. Traditional magnetic media degrade, require constant monitoring, and must be replaced every few years, driving up energy use, emissions, and cost. Glass storage changes the equation. It’s low‑cost, ultra‑durable, and naturally resistant to heat, humidity, particulates, and electromagnetic fields. As a WORM medium, it provides built‑in immutability and an air‑gap‑like security model. It also offers fast access without mechanical spooling. With a lifetime measured in centuries, glass eliminates data migration, scrubbing, and media refresh cycles. And because it enables true operational proportionality, the cost of storage scales only with how often data is accessed, not how long it's kept.
+
+Associated publications coming soon ...
 
 ## Postdoctoral Research Associate | University of Cambridge | Sep 2021 - Aug 2024
 I led on a collaborative scientific project between the University of Cambridge and McMaster University (Canada). I designed an optical setup to fabricate luminescent patterned films (or luminescent waveguide-encoded lattices - LWELs) for light harvesting. These patterned films are based on acrylate and epoxide polymers and can be applied to the surface of solar cells to boost efficiency. This work has resulted in the filing of a patent [WO/2024/252003](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024252003){:target="_blank"}. 
