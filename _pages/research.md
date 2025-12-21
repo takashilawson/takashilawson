@@ -25,7 +25,6 @@ I am leading a project on luminescent solar microreactors (LSMRs) as part of an 
 More details on my fellowship project are available on the [UKRI website](https://gtr.ukri.org/projects?ref=UKRI2028){:target="_blank"}.
 
 ![Project Silica](/assets/images/silica.jpg)
-
 ## Archival storage, reinvented in glass
 As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/academic-program/cambridge-residency/){:target="_blank"} at Microsoft Research (Sep 2024 - Dec 2025), I investigated new optical materials for [Project Silica](https://www.microsoft.com/en-us/research/project/project-silica/){:target="_blank"}, an archival data storage technology, based on writing data into glass with femtosecond lasers. A video summary of the project is available [here](https://youtu.be/-rfEYd4NGQg?feature=shared){:target="_blank"}.
 
@@ -34,7 +33,6 @@ As part of a [Cambridge Residency](https://www.microsoft.com/en-us/research/acad
 Associated publications coming soon ...
 
 ![Luminescent Waveguide Encoded Lattices](/assets/images/lwels.jpg)
-
 ## Powering the IoT with the light around us
 As part of first postdoctoral role (Sep 2021 - Aug 2024), I led on a collaborative scientific project between the University of Cambridge and McMaster University (Canada). I designed an optical setup to fabricate luminescent patterned films (or luminescent waveguide-encoded lattices - LWELs) for light harvesting. These patterned films are based on acrylate and epoxide polymers and can be applied to the surface of photovoltaic cells to boost efficiency. This work has resulted in the filing of a patent [WO/2024/252003](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024252003){:target="_blank"}. 
 
@@ -48,7 +46,6 @@ To read the associated publications please see:
 I also led efforts to implement a 'living lab' where a network of internet-enabled lab sensors feed into a monitoring dashboard to easily quantify and assess the environmental impact of scientific research. 
 
 ![Hollow-Core Fibre Microreactor](/assets/images/hcpcf.png)
-
 ## Photochemistry at the smallest scales
 In my PhD (Sep 2018 - Aug 2021), I developed a reaction monitoring technology to track photochemical reactions on ~100 nanolitre volumes. I built optofluidic setups for UV-Vis absorbance and fluorescence spectroscopy, generating new kinetic and mechanistic insights into the performance of carbon dots (a light absorber) and cobaloximes (a hydrogen evolution catalyst). During my PhD, I became highly skilled in Python for data wrangling and analysis, and gained proficiency in DFT computational calculations (Gaussian 16) for predicting UV-Vis absorbance and Raman spectra based on molecular structures. I was funded through the [NanoDTC](https://www.nanodtc.cam.ac.uk/){:target="_blank"}.
 
