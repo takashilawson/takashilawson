@@ -5,6 +5,13 @@
   amount: "£429,354"
   type: grant
 
+- year: 2025
+  award_body: UK Young Academy
+  title: Membership
+  reference: null
+  amount: null
+  type: honour
+
 - year: 2024
   award_body: ERC
   title: Proof of Concept Grant (Named Researcher)
@@ -55,8 +62,8 @@
   type: grant
 
 - year: 2023
-  award_body: UKRI Impact Acceleration Accounts
-  title: Impact Grant (Lead Applicant)
+  award_body: UKRI
+  title: Impact Acceleration Accounts (Lead Applicant)
   reference: "133"
   amount: "£13,260"
   type: grant
