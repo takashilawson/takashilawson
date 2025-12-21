@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/banner3.jpg
   image_description: "Armourers and Brasiers' Postdoctoral Prize award in 2024."
 last_modified_at: 2025-12-21
-toc: true
+toc: false
 ---
 Along my journey, I’ve been honoured to receive support and recognition from organisations and communities that shaped my work.
 Here are some of the grants, awards, and honours that have played a meaningful role in that path.
