@@ -48,8 +48,8 @@
   type: grant
 
 - year: 2023
-  award_body: EPSRC
-  title: Sponsorship for Impulse Programme
+  award_body: University of Cambridge
+  title: EPSRC Sponsorship for Impulse Programme
   reference: null
   amount: "£1,250"
   type: grant
@@ -62,8 +62,8 @@
   type: grant
 
 - year: 2023
-  award_body: UKRI
-  title: Impact Acceleration Accounts (Lead Applicant)
+  award_body: University of Cambridge
+  title: UKRI Impact Acceleration Accounts (Lead Applicant)
   reference: "133"
   amount: "£13,260"
   type: grant
@@ -83,7 +83,7 @@
   type: grant
 
 - year: 2021
-  award_body: Reaction Mechanisms in Catalysis Faraday Discussion
+  award_body: RSC Reaction Mechanisms in Catalysis Faraday Discussion
   title: Poster Prize
   reference: null
   amount: "£100"
@@ -115,14 +115,14 @@
   title: Undergraduate Scholarship
   reference: null
   amount: "£3,000"
-  type: scholarship
+  type: prize
 
 - year: 2014
   award_body: St Edmund Hall
   title: Undergraduate Scholarship
   reference: null
   amount: "£750"
-  type: scholarship
+  type: prize
 
 - year: 2014
   award_body: Oxford Materials
@@ -132,8 +132,8 @@
   type: prize
 
 - year: 2012
-  award_body: Berkshire Lieutenancy
-  title: Lord Lieutenant's Cadet
+  award_body: Sea Cadets
+  title: Berkshire Lord Lieutenant's Cadet
   reference: null
-  amount: "N/A"
+  amount: null
   type: honour
